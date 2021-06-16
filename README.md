@@ -19,4 +19,4 @@ https://mysterious-chamber-33331.herokuapp.com/
 https://github.com/Minamahmood/Budget-Tracker
 
  ## screenshot:
-  
+  ![example](https://user-images.githubusercontent.com/56496370/122156475-e538a400-ce1d-11eb-8b96-6c938cc6e4e2.gif)
